@@ -5,3 +5,7 @@ Thumbs.db
 
 # Local preview config (optional to keep — remove this line if you want it tracked)
 .claude/
+
+# Separate project — not part of the Everwell site
+cinematic-portfolio/
+portfolio-content.md
