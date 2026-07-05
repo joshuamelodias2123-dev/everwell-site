@@ -1,0 +1,7 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Local preview config (optional to keep — remove this line if you want it tracked)
+.claude/
